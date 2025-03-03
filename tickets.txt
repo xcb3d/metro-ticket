@@ -1,0 +1,6 @@
+TK3391|nguyentu|T001|Ga Bến Thành - Ga Nhà hát Thành phố|2025-03-03 08:00|g22|50000.0|Đã thanh toán|2025-03-03 13:14:18
+TK4250|nguyentu|T001|Ga Bến Thành - Ga Nhà hát Thành phố|2025-03-03 08:00|g12,g24,k13,k24|250000.0|Đã thanh toán|2025-03-03 13:17:08
+TK6887|nguyentu|T004|Ga Công viên Văn Thánh - Ga Tân Cảng|2025-03-03 12:36|k15|75000.0|Đã thanh toán|2025-03-03 13:17:38
+TK8718|nguyentu|T001|Ga Bến Thành - Ga Nhà hát Thành phố|2025-03-03 08:00|g33|50000.0|Đã thanh toán|2025-03-03 13:19:11
+TK7865|nguyentu|T005|Ga Tân Cảng - Ga Thảo Điền|2025-03-03 15:56|g31|50000|Đã thanh toán|2025-03-03 15:30:27
+TK9502|nguyentu|T035|Ga Tân Cảng - Ga Thảo Điền|2025-03-05 15:56|g32|50000|Đã thanh toán|2025-03-03 15:30:43
