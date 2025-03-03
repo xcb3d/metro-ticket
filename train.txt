@@ -8,7 +8,7 @@ T007|M7|Ga An Phú|Ga Rạch Chiếc|2025-03-03 19:06|40|
 T008|M8|Ga Rạch Chiếc|Ga Phước Long|2025-03-03 21:18|40|
 T009|M9|Ga Phước Long|Ga Bình Thái|2025-03-03 19:28|40|
 T010|M10|Ga Bình Thái|Ga Thủ Đức|2025-03-03 21:57|40|
-T021|M1|Ga Bến Thành|Ga Nhà hát Thành phố|2025-03-04 08:00|40|
+T021|M1|Ga Bến Thành|Ga Nhà hát Thành phố|2025-03-04 08:00|30|k3,k15,g21,k11,g24,g13,g11,g4,k2,k23
 T022|M2|Ga Nhà hát Thành phố|Ga Ba Son|2025-03-04 09:31|40|
 T023|M3|Ga Ba Son|Ga Công viên Văn Thánh|2025-03-04 10:52|40|
 T024|M4|Ga Công viên Văn Thánh|Ga Tân Cảng|2025-03-04 12:36|40|

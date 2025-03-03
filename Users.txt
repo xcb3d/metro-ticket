@@ -1,2 +1,4 @@
-NguyenTuAnh|1999-05-14|Nam|1234567890|nguyentu@gmail.com|0987654321|Agribank|nguyentu|nguyentu|9849725
+NguyenTuAnh|1999-05-14|Nam|1234567890|nguyentu@gmail.com|0987654321|Agribank|nguyentu|nguyentu|694972.0
+NguyenTuAnh|1999-05-14|Nam|1234567890|nguyentu@gmail.com|0987654321|Agribank|nguyentu01|nguyentu01|744972
 Ngoc Linh|2000-01-01|Nam|902348290348|sdjfsdkl@kflsjdf.dfoc|239408234|BIDV|ngoclinh|ngoclinh|100000
+klsdflksjf|2000-01-01|Nam|203984|sdfsdfsdf|sdfjsdf|BIDV|anhanh|anhanh|0
